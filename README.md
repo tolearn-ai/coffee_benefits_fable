@@ -35,3 +35,7 @@ Benefits are not a license for unlimited consumption. Coffee can disrupt sleep, 
 ## Closing note
 
 Most human evidence here is **observational**: it shows association, not proven cause and effect, and is vulnerable to confounding and reverse causation. Where benefits appear, they assume **moderate consumption** (roughly 3–4 cups/day) **without heavy added sugar, syrup, or cream**, which can erase the very benefits these studies describe. Non-drinkers need not start coffee for their health.
+
+---
+
+*This repository was a test project to evaluate LLM report generation. All content is entirely AI-generated and should not be taken as medical advice.*
